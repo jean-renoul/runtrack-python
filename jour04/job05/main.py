@@ -5,4 +5,6 @@ def liste_numeros():
     return L
 
 
+print (L[1])
 print (liste_numeros())
+print (L[4])
