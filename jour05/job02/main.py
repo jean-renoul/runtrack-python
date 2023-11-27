@@ -6,4 +6,4 @@ def draw_rectangle(largeur, hauteur):
             hauteur_rectangle += 1
         print ("|" + "-" * largeur + "|")
         
-draw_rectangle (10, 6)
+draw_rectangle (10, 3)
